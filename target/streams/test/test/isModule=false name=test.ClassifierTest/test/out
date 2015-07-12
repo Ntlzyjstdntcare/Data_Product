@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mClassifierTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- wcount should contain the number of times each word appears in a given text.[0m[0m
+[0m[[0minfo[0m] [0m[32m- ccount should contain the number of times each category is used to train the classifier.[0m[0m
+[0m[[0minfo[0m] [0m[32m- classify should provide the expected category.[0m[0m
